@@ -1,4 +1,4 @@
-package com.github.cristianrb.IdentityService
+package com.github.cristianrb.identityservice
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

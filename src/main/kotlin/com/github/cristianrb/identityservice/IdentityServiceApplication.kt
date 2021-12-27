@@ -1,4 +1,4 @@
-package com.github.cristianrb.IdentityService
+package com.github.cristianrb.identityservice
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
