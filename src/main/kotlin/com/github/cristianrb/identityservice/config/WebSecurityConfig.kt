@@ -15,7 +15,7 @@ import org.springframework.web.reactive.config.WebFluxConfigurer
 class WebSecurityConfig: WebFluxConfigurer {
 
     companion object {
-        val EXCLUDED_PATHS = arrayOf("/login")
+        val EXCLUDED_PATHS = arrayOf("/login", "/createUser")
     }
 
     @Bean

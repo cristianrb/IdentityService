@@ -24,6 +24,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 	implementation("javax.xml.bind:jaxb-api:2.4.0-b180830.0359")
+	implementation("org.springframework.boot:spring-boot-starter-data-mongodb-reactive")
 
 	implementation("io.jsonwebtoken:jjwt:0.9.1")
 
